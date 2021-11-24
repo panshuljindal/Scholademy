@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "252213620934",
+    "firebase_url": "https://scholademy-app-default-rtdb.firebaseio.com",
+    "project_id": "scholademy-app",
+    "storage_bucket": "scholademy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252213620934:android:2fa6c919e93380c92667c7",
+        "android_client_info": {
+          "package_name": "com.vritrahan.scholademy1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252213620934-t4r4iiv2k287pnbcp8tjjo4e11tsdif4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vritrahan.scholademy1",
+            "certificate_hash": "6219e2a9ee691c6cf54a5b8dc995d8450fc61074"
+          }
+        },
+        {
+          "client_id": "252213620934-57daglpcvhpk375jo1968dabu2rth80n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-bqu4N1pyjyJuaUrq-A8Boq_nPYUyU_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252213620934-57daglpcvhpk375jo1968dabu2rth80n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
